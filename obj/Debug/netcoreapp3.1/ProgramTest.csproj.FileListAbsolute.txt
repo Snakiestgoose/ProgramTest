@@ -1,0 +1,13 @@
+E:\ProgramTest\bin\Debug\netcoreapp3.1\ProgramTest.exe
+E:\ProgramTest\bin\Debug\netcoreapp3.1\ProgramTest.deps.json
+E:\ProgramTest\bin\Debug\netcoreapp3.1\ProgramTest.runtimeconfig.json
+E:\ProgramTest\bin\Debug\netcoreapp3.1\ProgramTest.runtimeconfig.dev.json
+E:\ProgramTest\bin\Debug\netcoreapp3.1\ProgramTest.dll
+E:\ProgramTest\bin\Debug\netcoreapp3.1\ProgramTest.pdb
+E:\ProgramTest\obj\Debug\netcoreapp3.1\ProgramTest.csprojAssemblyReference.cache
+E:\ProgramTest\obj\Debug\netcoreapp3.1\ProgramTest.csproj.CoreCompileInputs.cache
+E:\ProgramTest\obj\Debug\netcoreapp3.1\ProgramTest.AssemblyInfoInputs.cache
+E:\ProgramTest\obj\Debug\netcoreapp3.1\ProgramTest.AssemblyInfo.cs
+E:\ProgramTest\obj\Debug\netcoreapp3.1\ProgramTest.dll
+E:\ProgramTest\obj\Debug\netcoreapp3.1\ProgramTest.pdb
+E:\ProgramTest\obj\Debug\netcoreapp3.1\ProgramTest.genruntimeconfig.cache
