@@ -27,9 +27,9 @@ namespace ProgramTest
 				if (s[0] == 't' && s[s.Length - 1] == 'e')
 					count[2]++;
 			}
-			Console.WriteLine($"Number of words beginning with t:			{count[0]}");
-			Console.WriteLine($"Number of words ending with e:				{count[1]}");
-			Console.WriteLine($"Number of words beginning with t and ending with e:	{count[2]}");
+			Console.WriteLine($"Number of words beginning with t:\t\t\t{count[0]}");
+			Console.WriteLine($"Number of words ending with e:\t\t\t\t{count[1]}");
+			Console.WriteLine($"Number of words beginning with t and ending with e:\t{count[2]}");
 			Console.WriteLine("Press any key to continue");
 			Console.ReadLine();
 		}
